@@ -1,4 +1,4 @@
-# Store-Daily
+# [Store module] Daily Rewards
 Daily Reward module for Store: Players get rewards for logging in daily
 
 # Config
