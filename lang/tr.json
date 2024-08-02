@@ -1,0 +1,12 @@
+{
+    "Prefix": "{red}[Günlük bonus] {white}",
+
+    "Already claimed todays reward": "Bugünün ödülünü zaten aldınız. Bir sonraki ödülünüzü {green}{0} {white}saat {green}{1} dakika içinde talep edebilirsiniz.",
+    "You received your daily reward": "Günlük ödülünüz olan {green}{0} {white}krediyi {green}{1} {white}gün üst üste aldınız.",
+    "You received your first daily reward": "Günlük ödülünüz olan {green}{0} {white}krediyi ilk defa aldınız. Daha fazlasını almak için her gün giriş yapın!",
+
+    "Detailed daily reward first line": "=============================",
+    "Detailed daily reward claimed": "Gün {blue}{0} {white}- {gold}{1} {white}kredi ({green}✔{white})",
+    "Detailed daily reward not claimed": "Gün {blue}{0} {white}- {gold}{1} {white}kredi ({red}✘{white})",
+    "Detailed daily reward last line": "============================="
+}
